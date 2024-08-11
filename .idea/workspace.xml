@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7da69f9e-6e32-4f34-84f5-ded896bc36f8" name="Changes" comment="Window Template">
-      <change afterPath="$PROJECT_DIR$/src/game/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Chip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/GamePlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/PanelActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/cards/card back red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/chips/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/chips/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/chips/100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/chips/100k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/chips/1k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/chips/25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/chips/25k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/chips/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/chips/500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/chips/5k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/chips/chips.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/images/chips/placeholder.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/Panel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Panel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/cards/1_S.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/images/cards/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/cards/placeholder.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/images/cards/placeholder.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +25,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2hhvLOWTGoLGc8cWECbvS0oFv2H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\leejo\IdeaProjects\BlackJack\src\game\images\cards" />
@@ -94,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718470893614</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Window Template">
+      <created>1723412463878</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723412463878</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
