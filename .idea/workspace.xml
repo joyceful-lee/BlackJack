@@ -4,18 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7da69f9e-6e32-4f34-84f5-ded896bc36f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackJack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Panel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/cards/1_S.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/cards/placeholder.png" afterDir="false" />
+    <list default="true" id="7da69f9e-6e32-4f34-84f5-ded896bc36f8" name="Changes" comment="Window Template">
+      <change afterPath="$PROJECT_DIR$/src/game/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Chip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/GamePlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/PanelActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/cards/card back red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/chips/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/chips/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/chips/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/chips/100k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/chips/1k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/chips/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/chips/25k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/chips/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/chips/500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/chips/5k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/chips/chips.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game/images/chips/placeholder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Panel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Panel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/cards/1_S.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/images/cards/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/cards/placeholder.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/images/cards/placeholder.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +62,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leejo\IdeaProjects\BlackJack\src\game\images\cards" />
+      <recent name="C:\Users\leejo\IdeaProjects\BlackJack\src\game\images\chips" />
       <recent name="C:\Users\leejo\IdeaProjects\BlackJack\src\game\cards" />
       <recent name="C:\Users\leejo\IdeaProjects\BlackJack\src\game" />
       <recent name="C:\Users\leejo\IdeaProjects\BlackJack\src" />
@@ -73,6 +87,39 @@
       <option name="presentableId" value="Default" />
       <updated>1718059070992</updated>
     </task>
+    <task id="LOCAL-00001" summary="Window Template">
+      <created>1718470893614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718470893614</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Window Template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Window Template" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
