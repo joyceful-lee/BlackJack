@@ -1,7 +1,7 @@
 # Simple BlackJack Player
 
 This project emulates a single player vs. a dealer for BlackJack. You can bet chips, stay, and hit (the basic features).
-It's not the fanciest, but it does the job.
+It's not the fanciest, but it does the job. :black_joker:
 
 ## How To Play
 After running, input how much money you want to start with in the pop-up.
@@ -12,5 +12,5 @@ Whether you win or loose, you can choose to play again with the money you have l
 
 ## Credits
 I made the chips myself - if you want to download and use them, go ahead.
-I got the cards from the [Google Code Archive] (https://code.google.com/archive/p/vector-playing-cards/downloads).
-The graphic for the dealer chips is absolutely useless (so pretend it's not there)
+I got the cards from the [Google Code Archive](https://code.google.com/archive/p/vector-playing-cards/downloads).
+The graphic for the dealer chips is absolutely useless (so pretend it's not there :no_mouth: )
